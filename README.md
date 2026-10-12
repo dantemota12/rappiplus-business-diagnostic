@@ -120,7 +120,7 @@ Python · pandas · Matplotlib · Seaborn · statsmodels · SQL (PostgreSQL) · 
 - `sprint 12 - cuaderno de jupyter - S12 Estudiante Proyecto Final.ipynb`: full analysis notebook (data quality, profitability, funnel, retention, A/B test and recommendations).
 - `sprint 12 - archivo de power bi - Sprint 12 Proyecto Final Dashboard.pbix`: Power BI dashboard.
 - `images/`: screenshots of the dashboard pages.
-- [Download the dashboard and clean datasets from Google Drive](https://drive.google.com/file/d/1whCeWcOD1uFywF_LTG1dBvkmSMOD2Iff/view?usp=drive_link)
+- [Download the Jupyter notebook from Google Drive](https://drive.google.com/file/d/1whCeWcOD1uFywF_LTG1dBvkmSMOD2Iff/view?usp=drive_link)
 
 ## Author
 
